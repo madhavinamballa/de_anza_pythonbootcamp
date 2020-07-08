@@ -1,13 +1,6 @@
-# Basic Definition
-
-    # code goes here
-  
-
-
 # Simple Function with no parameters
 
-
-# You use parenthesis to run the code in a function
+# call the function 
 
 
 
@@ -18,15 +11,13 @@
 # You assign the string "Hello, World!" when you call the function
 # This is like saying `message = "Hello, World!"`
 
-
-
 # Functions can have more than one parameter
 
 
 
 # Supply the arguments (values) when calling the function
 
-# @NOTE: Order is important when supplying arguments!
+
 
 
 

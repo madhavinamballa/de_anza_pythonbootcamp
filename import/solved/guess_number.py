@@ -2,6 +2,7 @@
 import random
 user_guess=int(input("Eneter any integer between 1 and 99: "))
 computer_choice = random.randint(1, 99)
+
 while computer_choice != "guess":
     print
     if user_guess < computer_choice:
@@ -15,3 +16,10 @@ while computer_choice != "guess":
         break
     print
 
+import pgzrun
+#set the screen
+WIDTH=800
+HEIGHT=600
+def draw():    
+    screen.fill("red")
+pgzrun.go()

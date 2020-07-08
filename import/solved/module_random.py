@@ -4,13 +4,32 @@
 #This number is used to generate a float random number less than 1 and greater or equal to 0.
 import random
 print(random.random())
+# 0.213
+# 0.343
+# 0.346   
 #random.randint()
 #Returns a random integer between the specified integers.
 print(random.randint(0,9))
+#6
+#5
+#
 #random.choice()
 #Returns a randomly selected element from a non-empty sequence.
-print(random.choice("madhavi"))
-print(random.choice([12,23,45,67,65,43]))
+
+
+print(random.choice("python"))
+#
+#
+#
+#
+print(random.choice[12,23,45,67,65,43])
+#
+#
+#
+
+
+
+
 # random.shuffle()
 #This functions randomly reorders the elements in a list
 numbers=[12,23,45,67,65,43]

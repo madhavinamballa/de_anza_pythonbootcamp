@@ -1,4 +1,4 @@
-# write a function  that returns the arithmetic average fora list of numbers
+# write a function  that returns the arithmetic average for a list of numbers
 
 
 # Test your function 

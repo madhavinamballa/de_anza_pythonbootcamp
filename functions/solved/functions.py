@@ -1,11 +1,13 @@
 #define a simple function with def key word
 
+# call the function to run the code in a function
+
 
 #=====================================
-#Functions that take in and use parameter
+# Simple function with one parameter
 
-#=====================================
-# The print use of the function is to run the same code for different values
+# Functions can have more than one parameter
+
 
 #=========================
 #even odd finder function
