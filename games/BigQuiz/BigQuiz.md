@@ -1,7 +1,7 @@
 
 ### Quizzing
 All the questions and possible answers are stored in a list.The program uses pop() function to getr the first question and its
-possible answers from the listand then displays them.The player's score is stored ina variable and increases with each correct answer.
+possible answers from the list and then displays them.The player's score is stored ina variable and increases with each correct answer.
 The final score is displayed at the end.
 
 
